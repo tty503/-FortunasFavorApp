@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52B87C-3A57-417A-83B3-740A8D762B27}|DebtService\\DebtService.njsproj|C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\DebtService\\Models\\Debt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E52B87C-3A57-417A-83B3-740A8D762B27}|DebtService\\DebtService.njsproj|solutionrelative:DebtService\\Models\\Debt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E52B87C-3A57-417A-83B3-740A8D762B27}|DebtService\\DebtService.njsproj|C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\DebtService\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E52B87C-3A57-417A-83B3-740A8D762B27}|DebtService\\DebtService.njsproj|solutionrelative:DebtService\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Debt.js",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\DebtService\\Models\\Debt.js",
+              "RelativeDocumentMoniker": "DebtService\\Models\\Debt.js",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\DebtService\\Models\\Debt.js",
+              "RelativeToolTip": "DebtService\\Models\\Debt.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T02:33:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\DebtService\\server.js",
+              "RelativeDocumentMoniker": "DebtService\\server.js",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\DebtService\\DebtService\\server.js",
+              "RelativeToolTip": "DebtService\\server.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T01:37:17.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

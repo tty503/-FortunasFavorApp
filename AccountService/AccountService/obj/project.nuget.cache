@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kROmCiUTBibC2CSkEVNoDv24BZiQCXFzIQ7EMypfMYbVA+Yyx8v04+FrkRhSeGhytZc/pZ2kUIdZ5jPXMb4Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\AccountService\\AccountService\\AccountService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

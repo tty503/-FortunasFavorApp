@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEx2qDHx9fJHLzo/n4n5il3k6y+LPW+Fvno8aE0+lzI7qTIrdfHHsCbfNcNPhugXfhaszaIAsozuPhs5TRe7SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\TransactionService\\TransactionService\\TransactionService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

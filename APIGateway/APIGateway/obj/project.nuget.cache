@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NB0fvxg3gXVRJSqh+Z0xcuLeOQDaI5nsllS7oNDznqopE3viJ/6pSn6C+m7ShEIpyDwN0DvigB6as1uwyim0tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\ProyectoPerfil\\FortunasFavorApp\\APIGateway\\APIGateway\\APIGateway.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
